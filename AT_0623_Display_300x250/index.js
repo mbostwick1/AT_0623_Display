@@ -429,7 +429,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.text = new cjs.Text("Not available\nin allstates\nof purchase.", "italic 10px 'Arial'", "#FFFFFF");
+	this.text = new cjs.Text("Not available\nin all states\nof purchase.", "italic 10px 'Arial'", "#FFFFFF");
 	this.text.lineHeight = 13;
 	this.text.lineWidth = 268;
 	this.text.parent = this;
@@ -734,21 +734,21 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/back.png?1690188221441", id:"back"},
-		{src:"images/cta.png?1690188221441", id:"cta"},
-		{src:"images/dots.png?1690188221441", id:"dots"},
-		{src:"images/hand.png?1690188221441", id:"hand"},
-		{src:"images/head11.png?1690188221441", id:"head11"},
-		{src:"images/head21.png?1690188221441", id:"head21"},
-		{src:"images/head31.png?1690188221441", id:"head31"},
-		{src:"images/head41.png?1690188221441", id:"head41"},
-		{src:"images/head42.png?1690188221441", id:"head42"},
-		{src:"images/head43.png?1690188221441", id:"head43"},
-		{src:"images/image1.png?1690188221441", id:"image1"},
-		{src:"images/image2.png?1690188221441", id:"image2"},
-		{src:"images/logo.png?1690188221441", id:"logo"},
-		{src:"images/no.png?1690188221441", id:"no"},
-		{src:"images/product.png?1690188221441", id:"product"}
+		{src:"images/back.png?1690212680215", id:"back"},
+		{src:"images/cta.png?1690212680215", id:"cta"},
+		{src:"images/dots.png?1690212680215", id:"dots"},
+		{src:"images/hand.png?1690212680215", id:"hand"},
+		{src:"images/head11.png?1690212680215", id:"head11"},
+		{src:"images/head21.png?1690212680215", id:"head21"},
+		{src:"images/head31.png?1690212680215", id:"head31"},
+		{src:"images/head41.png?1690212680215", id:"head41"},
+		{src:"images/head42.png?1690212680215", id:"head42"},
+		{src:"images/head43.png?1690212680215", id:"head43"},
+		{src:"images/image1.png?1690212680215", id:"image1"},
+		{src:"images/image2.png?1690212680215", id:"image2"},
+		{src:"images/logo.png?1690212680215", id:"logo"},
+		{src:"images/no.png?1690212680215", id:"no"},
+		{src:"images/product.png?1690212680215", id:"product"}
 	],
 	preloads: []
 };
